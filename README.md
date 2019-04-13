@@ -1,2 +1,3 @@
 # redistest
-Redis Test
+运行RedisBaseTest
+

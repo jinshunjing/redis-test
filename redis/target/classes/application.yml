@@ -1,0 +1,11 @@
+
+# Server
+server:
+  port: 8778
+
+# Redis Server
+spring:
+  redis:
+    host: 121.43.169.200
+    port: 6379
+    password: ZTgzNDkyODQ4YWYxNDA3Y2Y2NjQyMzA2
