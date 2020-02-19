@@ -6,6 +6,6 @@ server:
 # Redis Server
 spring:
   redis:
-    host: 127.0.0.1
+    host: 121.43.169.200
     port: 6379
-    password: 123456
+    password: ZTgzNDkyODQ4YWYxNDA3Y2Y2NjQyMzA2
