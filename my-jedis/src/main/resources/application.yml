@@ -1,7 +1,7 @@
 
 # Server
 server:
-  port: 8778
+  port: 8771
 
 # Redis Server
 spring:
