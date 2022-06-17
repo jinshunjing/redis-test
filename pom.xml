@@ -28,7 +28,7 @@
         <project.build.locales>UTF-8</project.build.locales>
         <jedis.version>2.9.3</jedis.version>
         <lombok.version>1.18.10</lombok.version>
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencies>
